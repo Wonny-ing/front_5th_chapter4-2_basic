@@ -152,8 +152,8 @@ section.hero img.desktop {
     width: 220px;
     max-width: 100%;
     border-radius: 92px;
-    background-color: #33c6dd;
-    color: #FFF;
+    background-color: #014c5a;
+    color: #FFFFFF;
     font-size: 16px;
     font-weight: 700;
     letter-spacing: 0.4px;
@@ -165,9 +165,9 @@ section.hero img.desktop {
 }
 
 .hero-content button:hover {
-    color: #33c6dd;
-    background-color: #FFF;
-    border: 1px solid #33c6dd;
+    color: #007a99;
+    background-color: #FFFFFF;
+    border: 1px solid #007a99;
 }
 
 
@@ -269,7 +269,7 @@ section.best-sellers .product-slider .product .product-info {
 }
 
 section.best-sellers .product-slider .product .product-info .categories {
-    color: #33c6dd;
+    color: #1a9cb0;
     font-weight: normal;
     font-size: 14px;
     letter-spacing: 0.35px;
